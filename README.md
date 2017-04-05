@@ -1,1 +1,1 @@
-# android_device_lenovo_P70
+# Lenovo P70-A Source
