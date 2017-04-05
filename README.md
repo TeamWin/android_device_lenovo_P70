@@ -5,7 +5,7 @@ Add to `.repo/local_manifests/p70.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="device/lenovo/p70" name="android_device_lenovo_P70" remote="TeamWin" revision="android-5.1" />
+	<project path="device/lenovo/P70" name="android_device_lenovo_P70" remote="TeamWin" revision="android-5.1" />
 </manifest>
 ```
 
