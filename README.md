@@ -1,6 +1,6 @@
 ## TWRP device tree for Lenovo P70-A
 
-Add to `.repo/local_manifests/p70.xml`:
+Add to `.repo/local_manifests/P70.xml`:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
