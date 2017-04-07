@@ -15,6 +15,6 @@ To build:
 
 ```sh
 . build/envsetup.sh
-lunch omni_p70-eng
-make -j 9 recoveryimage
+lunch omni_p70-userdebug
+mka -i -j 9 recoveryimage
 ```
